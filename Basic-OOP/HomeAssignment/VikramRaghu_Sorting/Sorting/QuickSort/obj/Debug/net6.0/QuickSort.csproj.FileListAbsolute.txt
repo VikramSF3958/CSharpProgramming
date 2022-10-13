@@ -1,0 +1,15 @@
+D:\Sorting\QuickSort\bin\Debug\net6.0\QuickSort.exe
+D:\Sorting\QuickSort\bin\Debug\net6.0\QuickSort.deps.json
+D:\Sorting\QuickSort\bin\Debug\net6.0\QuickSort.runtimeconfig.json
+D:\Sorting\QuickSort\bin\Debug\net6.0\QuickSort.dll
+D:\Sorting\QuickSort\bin\Debug\net6.0\QuickSort.pdb
+D:\Sorting\QuickSort\obj\Debug\net6.0\QuickSort.csproj.AssemblyReference.cache
+D:\Sorting\QuickSort\obj\Debug\net6.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sorting\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfoInputs.cache
+D:\Sorting\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfo.cs
+D:\Sorting\QuickSort\obj\Debug\net6.0\QuickSort.csproj.CoreCompileInputs.cache
+D:\Sorting\QuickSort\obj\Debug\net6.0\QuickSort.dll
+D:\Sorting\QuickSort\obj\Debug\net6.0\refint\QuickSort.dll
+D:\Sorting\QuickSort\obj\Debug\net6.0\QuickSort.pdb
+D:\Sorting\QuickSort\obj\Debug\net6.0\QuickSort.genruntimeconfig.cache
+D:\Sorting\QuickSort\obj\Debug\net6.0\ref\QuickSort.dll

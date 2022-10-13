@@ -1,0 +1,15 @@
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\bin\Debug\net6.0\Execise3.exe
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\bin\Debug\net6.0\Execise3.deps.json
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\bin\Debug\net6.0\Execise3.runtimeconfig.json
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\bin\Debug\net6.0\Execise3.dll
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\bin\Debug\net6.0\Execise3.pdb
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\obj\Debug\net6.0\Execise3.csproj.AssemblyReference.cache
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\obj\Debug\net6.0\Execise3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\obj\Debug\net6.0\Execise3.AssemblyInfoInputs.cache
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\obj\Debug\net6.0\Execise3.AssemblyInfo.cs
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\obj\Debug\net6.0\Execise3.csproj.CoreCompileInputs.cache
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\obj\Debug\net6.0\Execise3.dll
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\obj\Debug\net6.0\refint\Execise3.dll
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\obj\Debug\net6.0\Execise3.pdb
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\obj\Debug\net6.0\Execise3.genruntimeconfig.cache
+D:\C#\Assignments\Home_Assignments\Inheritance\Multilevel\Execise3\obj\Debug\net6.0\ref\Execise3.dll

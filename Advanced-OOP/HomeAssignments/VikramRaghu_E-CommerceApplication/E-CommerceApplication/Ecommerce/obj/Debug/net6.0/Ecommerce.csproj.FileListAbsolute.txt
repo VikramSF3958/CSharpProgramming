@@ -1,0 +1,15 @@
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+D:\C#\Assignments\Home_Assignments\FullApplication\E-CommerceApplication\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll

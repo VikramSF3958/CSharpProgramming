@@ -1,0 +1,15 @@
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\bin\Debug\net6.0\Multipath.exe
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\bin\Debug\net6.0\Multipath.deps.json
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\bin\Debug\net6.0\Multipath.runtimeconfig.json
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\bin\Debug\net6.0\Multipath.dll
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\bin\Debug\net6.0\Multipath.pdb
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\obj\Debug\net6.0\Multipath.csproj.AssemblyReference.cache
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\obj\Debug\net6.0\Multipath.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\obj\Debug\net6.0\Multipath.AssemblyInfoInputs.cache
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\obj\Debug\net6.0\Multipath.AssemblyInfo.cs
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\obj\Debug\net6.0\Multipath.csproj.CoreCompileInputs.cache
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\obj\Debug\net6.0\Multipath.dll
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\obj\Debug\net6.0\refint\Multipath.dll
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\obj\Debug\net6.0\Multipath.pdb
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\obj\Debug\net6.0\Multipath.genruntimeconfig.cache
+D:\C#\Assignments\Home_Assignments\Inheritance\Multipath\obj\Debug\net6.0\ref\Multipath.dll

@@ -1,0 +1,15 @@
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\bin\Debug\net6.0\ListFile.exe
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\bin\Debug\net6.0\ListFile.deps.json
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\bin\Debug\net6.0\ListFile.runtimeconfig.json
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\bin\Debug\net6.0\ListFile.dll
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\bin\Debug\net6.0\ListFile.pdb
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\obj\Debug\net6.0\ListFile.csproj.AssemblyReference.cache
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\obj\Debug\net6.0\ListFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\obj\Debug\net6.0\ListFile.AssemblyInfoInputs.cache
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\obj\Debug\net6.0\ListFile.AssemblyInfo.cs
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\obj\Debug\net6.0\ListFile.csproj.CoreCompileInputs.cache
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\obj\Debug\net6.0\ListFile.dll
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\obj\Debug\net6.0\refint\ListFile.dll
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\obj\Debug\net6.0\ListFile.pdb
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\obj\Debug\net6.0\ListFile.genruntimeconfig.cache
+D:\C#\Examples\FileHandling\ListFileManipulation\ListFile\obj\Debug\net6.0\ref\ListFile.dll
